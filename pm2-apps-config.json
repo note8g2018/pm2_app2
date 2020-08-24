@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Websocket",
+      "cwd": "D:\\code\\node\\pm2_app2\\Websocket",
+      "script": "websocketServer.js"
+    },
+    {
+      "name": "HTTP1.1",
+      "cwd": "D:\\code\\node\\pm2_app2\\HTTP1.1",
+      "script": "app.js"
+    }
+  ]
+}
